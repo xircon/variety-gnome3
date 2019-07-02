@@ -9,6 +9,8 @@
 
 + Enable in tweaks.
 
+The directory should look like:
+
 Based on poppy-menu:
 
 https://extensions.gnome.org/extension/1279/poppy-menu/
