@@ -10,7 +10,7 @@
 + Enable in tweaks.
 
 The directory should look like:
-
+```
 ├── extension.js
 ├── locale
 <snip>
@@ -22,7 +22,7 @@ The directory should look like:
 │   ├── poppy.svg.old
 │   └── variety.svg
 └── stylesheet.css
-
+```
 
 Based on poppy-menu:
 
