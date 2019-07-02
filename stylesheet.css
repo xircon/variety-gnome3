@@ -1,0 +1,15 @@
+.variety-button {
+	margin: 1px 0 0 0;
+	background-size: 20px;
+	width: 20px;
+	height: 20px;
+	background-image: url("Resources/variety.svg");
+}
+
+.variety-button-hover {
+	margin: 1px 0 0 0;
+	background-size: 20px;
+	width: 20px;
+	height: 20px;
+	background-image: url("Resources/variety-active.svg");
+}
